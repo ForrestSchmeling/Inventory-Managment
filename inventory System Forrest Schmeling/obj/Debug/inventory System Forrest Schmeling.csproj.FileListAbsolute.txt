@@ -1,0 +1,15 @@
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\bin\Debug\inventory System Forrest Schmeling.exe.config
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\bin\Debug\inventory System Forrest Schmeling.exe
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\bin\Debug\inventory System Forrest Schmeling.pdb
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.csproj.AssemblyReference.cache
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.Properties.Resources.resources
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.csproj.GenerateResource.cache
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.csproj.CoreCompileInputs.cache
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.exe
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory System Forrest Schmeling.pdb
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.AddPart.resources
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.ModifyPart.resources
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.AddProduct.resources
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.ModifyProduct.resources
+C:\Users\Forrest\source\repos\inventory System Forrest Schmeling\inventory System Forrest Schmeling\obj\Debug\inventory_System_Forrest_Schmeling.MainForm.resources
